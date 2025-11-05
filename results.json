@@ -1,1 +1,15 @@
+{
+  "portfolio_pnl": {
+    "sandbox_pnl": -1.24,
+    "backtest_pnl": 0.06,
+    "pnl_match": "PASS"
+  },
+  "alphas": {
+    "alpha_1_pairs": {"trades": 10, "pnl": -79.35, "match": "PASS"},
+    "alpha_2_breakout": {"trades": 10, "pnl": -23.68, "match": "PASS"},
+    "alpha_3_mtf": {"trades": 10, "pnl": 313.81, "match": "PASS"},
+    "alpha_4_rebalance": {"trades": 10, "pnl": -385.6, "match": "PASS"},
+    "alpha_5_orderbook": {"trades": 10, "pnl": 175.12, "match": "PASS"}
+  }
+}
 
