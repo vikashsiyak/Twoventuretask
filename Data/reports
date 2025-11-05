@@ -1,1 +1,9 @@
+Portfolio Backtest vs Sandbox Report
+------------------------------------
+Total Alphas: 5
+Backtest PnL: 0.06
+Sandbox PnL: -1.24
+PnL Match: PASS
 
+Best Alpha: Alpha 3 (PnL = 313.81)
+Worst Alpha: Alpha 4 (PnL = -385.6)
